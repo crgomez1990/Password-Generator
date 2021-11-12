@@ -4,7 +4,7 @@ This application generates a random password based on user-selected criteria. Th
 
 The following image demonstrates the application functionality:
 
-![An app window with the label Password Generator, an input field labeled Your Secure Password, and a Generate Password button.](./assets/images/03-javascript-homework-demo.png)
+![An app window with the label Password Generator, an input field labeled Your Secure Password, and a Generate Password button.](./assets/Images/03-javascript-homework-demo.png)
 
 
 
